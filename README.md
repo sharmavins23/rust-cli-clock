@@ -5,6 +5,10 @@ This is a small project rebuilt from
 a rendered updating clock in the CLI through Rust. It's a small project to
 simply gain familiarity with the language.
 
+In particular, a lot of the code formatting and style was changed to be more
+"rusty", adhering to specific typing, as well as breaking out functionality into
+separate functions and simplifying the code.
+
 ## Characters
 
 The CLI renders unicode characters from the following dataset:
