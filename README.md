@@ -9,6 +9,15 @@ In particular, a lot of the code formatting and style was changed to be more
 "rusty", adhering to specific typing, as well as breaking out functionality into
 separate functions and simplifying the code.
 
+## Pairing
+
+This is meant to be a pair project across multiple different programming
+languages just to examine the significant differences between handling of
+higher-level code. The following is a (growing) list of languages I've
+reimplemented this project in:
+
+-   [Rust](https://github.com/sharmavins23/rust-cli-clock)
+
 ## Characters
 
 The CLI renders unicode characters from the following dataset:
