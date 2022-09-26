@@ -9,6 +9,17 @@ In particular, a lot of the code formatting and style was changed to be more
 "rusty", adhering to specific typing, as well as breaking out functionality into
 separate functions and simplifying the code.
 
+## Running
+
+Simply type in the command line:
+
+```bash
+cargo build
+cargo run
+```
+
+This will build and execute the program.
+
 ## Pairing
 
 This is meant to be a pair project across multiple different programming
@@ -17,6 +28,7 @@ higher-level code. The following is a (growing) list of languages I've
 reimplemented this project in:
 
 -   [Rust](https://github.com/sharmavins23/rust-cli-clock)
+-   [C](https://github.com/sharmavins23/c-cli-clock)
 
 ## Characters
 
