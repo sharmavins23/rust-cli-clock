@@ -5,6 +5,11 @@ This is a small project rebuilt from
 a rendered updating clock in the CLI through Rust. It's a small project to
 simply gain familiarity with the language.
 
+## Characters
+
+The CLI renders unicode characters from the following dataset:
+[Unicode Characters (02500 to 025FF)](https://www.w3.org/TR/xml-entity-names/025.html).
+
 # License TL;DR
 
 This project is distributed under the MIT license. This is a paraphrasing of a
